@@ -4,7 +4,7 @@ Meu nome é Edson Torres
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
-- Estou cursando o módulo de Introdução a Banco de Dados no [Senai](https://wwww.senai.com.br),atualmente.
+- Estou cursando o módulo de Introdução a Banco de Dados no [Senai](https://sp.senai.br),atualmente.
 - Utilizo em espaço para minha organizaçao conpartilhamento dos meus projetos desenvolvidos
 
 ## Caso queira entrar em contato comigo
