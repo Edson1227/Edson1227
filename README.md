@@ -1,16 +1,16 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💛
 
-<!--
-**Edson1227/Edson1227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Edson Torres
 
-Here are some ideas to get you started:
+-Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Estou cursando o módulo de Introdução a Banco de Dados no [Senai](https://wwww.senai.com.br),atualmente.
+- Utilizo em espaço para minha organizaçao conpartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Caso queira entrar em contato comigo
+- 📫 edsontorres25790@gmail.com
+- Insta:@edson_torres011
+- 📞(12)99219-1573
+
+![](https://media1.tenor.com/m/DBcVKLog4qUAAAAC/sasaki-to-miyano-sasaki-and-miyano.gif)
+  
